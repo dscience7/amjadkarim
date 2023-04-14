@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 Sci-fi writers and some technologists propose that one day we will achieve immortality by uploading ourselves to a computer and living in cyberspace. Is this immortality or suicide?
 
- Wouldn't the original biological *you* remain where it started i.e. in your body? So either you die and a copy of you carries on or there are two distinct versions of you. The problem is that there has be to a break in continuity of consciousness at some point during the switch between your biological self to your digital one. Isn't this break death?
+ Wouldn't the original biological *you* remain where it started i.e. in your body? So either you die and a copy of you carries on or there are two distinct versions of you. The problem is that there has be to a break in continuity of consciousness at some point during the switch between your biological self to your digital one.
 
  <!--more-->
 
